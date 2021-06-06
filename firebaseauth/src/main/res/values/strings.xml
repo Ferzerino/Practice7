@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseAuth</string>
+    <string name="sign_out">sign_out</string>
+    <string name="verify_email">verify_email</string>
+    <string name="create_account">create_account</string>
+    <string name="sign_in">sign_in</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="emailpassword_title_text">emailpassword_title_text</string>
+    <string name="signed_out">signed_out</string>
+</resources>
